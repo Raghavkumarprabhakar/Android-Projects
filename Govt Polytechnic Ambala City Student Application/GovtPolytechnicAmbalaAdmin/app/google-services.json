@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477413254042",
+    "project_id": "govt-polytechnic-ambala-e1f25",
+    "storage_bucket": "govt-polytechnic-ambala-e1f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477413254042:android:1a5ae2be9aab9bdf7c9023",
+        "android_client_info": {
+          "package_name": "com.example.govtpolytechnicambalaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477413254042-3ncp81faumudp9496g6c6oleq1h5pgnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKF2ejHMEVzZdzBju1RU6Bronw9TStW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477413254042-3ncp81faumudp9496g6c6oleq1h5pgnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
