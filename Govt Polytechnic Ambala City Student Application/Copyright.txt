@@ -2,7 +2,7 @@
 
 ## Govt Polytechnic Ambala City Student App
 
-**Copyright © 2024**
+**Copyright © 2024
 
 All rights reserved.
 
@@ -12,7 +12,7 @@ This software and associated documentation files (the "Software") are provided b
 
 ### Copyright Notice
 
-1. **Ownership**: 
+1. Ownership: 
    - The Institution retains all rights, title, and interest in and to the Software, including all intellectual property rights.
 
 2. **Redistribution and Use**: 
@@ -23,23 +23,23 @@ This software and associated documentation files (the "Software") are provided b
 
 ### Disclaimer of Warranty
 
-3. **No Warranty**: 
+3. No Warranty: 
    - The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Institution or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
 ### Limitation of Liability
 
-4. **No Liability for Damages**: 
+4. No Liability for Damages: 
    - In no event shall the Institution be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Software, even if advised of the possibility of such damage.
 
 ### Miscellaneous
 
-5. **Governing Law**: 
+5. Governing Law: 
    - This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law principles.
 
-6. **Severability**: 
+6. Severability: 
    - If any provision of this Agreement is held to be unenforceable, this Agreement shall be construed as if such provision were not contained herein and the remainder of the Agreement shall be in full force and effect.
 
-7. **Changes to This Agreement**: 
+7. Changes to This Agreement: 
    - The Institution reserves the right to modify this Agreement at any time. Your continued use of the Software constitutes your acceptance of the modified terms.
 
 ---
