@@ -59,3 +59,7 @@ This is a common password for staff only and can be obtained by authorized staff
 
 User Panel
 Students need to either login or sign up to access the user panel.
+
+
+
+Contact - Raghavkumarprabhakar50@gmail.com
